@@ -3,6 +3,8 @@ project(autograd)
 
 
 set(CMAKE_CXX_STANDARD 14)
+
+# 下载到本地到地址
 set(Torch_DIR /Users/jiang/Documents/lib/libtorch/share/cmake/Torch)
 
 

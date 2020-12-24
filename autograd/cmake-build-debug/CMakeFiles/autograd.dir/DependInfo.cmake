@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/jiang/CLionProjects/autograd/autograd.cpp" "/Users/jiang/CLionProjects/autograd/cmake-build-debug/CMakeFiles/autograd.dir/autograd.cpp.o"
+  "/Users/jiang/CLionProjects/torch_cpp_example/autograd/autograd.cpp" "/Users/jiang/CLionProjects/torch_cpp_example/autograd/cmake-build-debug/CMakeFiles/autograd.dir/autograd.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
